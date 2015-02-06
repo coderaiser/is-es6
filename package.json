@@ -1,7 +1,7 @@
 {
   "name": "is-es6",
   "version": "1.0.0",
-  "description": "check availability of es6 support",
+  "description": "check es6 support",
   "main": "lib/is-es6.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
