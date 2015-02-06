@@ -1,0 +1,23 @@
+{
+  "name": "is-es6",
+  "version": "1.0.0",
+  "description": "check availability of es6 support",
+  "main": "lib/is-es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/is-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "support"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/is-es6/issues"
+  },
+  "homepage": "https://github.com/coderaiser/is-es6"
+}
