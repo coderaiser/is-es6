@@ -1,6 +1,6 @@
 # Is es6
 
-Check `ES6` support. You could use `ES6` when it's accessible and if not, just use good old `ES5`.
+Check `ECMAScript 6` support. You could use `ECMAScript 6` when it's accessible and if not, just use good old `ECMAScript 5`.
 
 ## Install
 
