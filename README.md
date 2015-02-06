@@ -5,6 +5,7 @@ Check `ES6` support. You could use `ES6` when it's accessible and if not, just u
 ## Install
 
 `npm i is-es6 --save`
+
 `bower i is-es6 --save`
 
 ## Hot to use?
