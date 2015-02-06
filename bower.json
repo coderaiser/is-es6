@@ -1,0 +1,26 @@
+{
+  "name": "is-es6",
+  "version": "1.0.0",
+  "homepage": "https://github.com/coderaiser/is-es6",
+  "authors": [
+    "coderaiser <mnemonic.enemy@gmail.com>"
+  ],
+  "description": "check es6 support",
+  "main": "lib/is-es6.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "es6",
+    "support"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
